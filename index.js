@@ -4,11 +4,7 @@ const searchBar = document.getElementById('searchBar');
 
 // Simulate fetching MP3 files from the server
 const songs = [
-    "song1.mp3",
-    "song2.mp3",
-    "song3.mp3",
-    "old_classic.mp3",
-    "hidden_treasure.mp3"
+    "Small Affairs - My Time.mp3"
 ];
 
 // Function to display the list of songs
